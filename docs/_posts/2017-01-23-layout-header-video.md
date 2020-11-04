@@ -1,5 +1,5 @@
 ---
-title: "Layout: Header Video"
+title: 'Layout: Header Video'
 header:
   video:
     id: XsxDH4HcOWA
@@ -10,6 +10,7 @@ categories:
 tags:
   - video
   - layout
+published: true
 ---
 
 This post should display a **header with a responsive video**, if the theme supports it.
